@@ -4,7 +4,6 @@
 int main() {
     int number;
 
-    // Loop to keep asking for input until user enters a negative number
     do {
         printf("--------------------------------------------\n");
         printf("No negative numbers or the program will quit\n");
